@@ -1,0 +1,1 @@
+Doing the first odin project HTML only for now. will add css later
